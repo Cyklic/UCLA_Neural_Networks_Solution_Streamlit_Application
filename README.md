@@ -1,7 +1,7 @@
 # UCLA Admission Chances Predictior Application
 This app has been built using Streamlit and deployed with Streamlit community cloud
 
-<!-- [Visit the app here](https://leonard-umoru-ucla-neural-networks-solution.streamlit.app/) -->
+[Visit the app here](https://leonard-umoru-ucla-neural-networks-solution.streamlit.app/)
 
 This application predicts whether a student is eligible for admission at UCLA loan based on inputs derived from the current admission dataset, built to help students in shortlisting universities based on their profiles. The model aims to help students assess admission eligibility by leveraging machine learning predictions.
 
